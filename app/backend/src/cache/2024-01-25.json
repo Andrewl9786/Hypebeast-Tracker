@@ -1,0 +1,45 @@
+{
+  "date": "2024-01-25",
+  "fashionRelease": [
+    {
+      "retailerBrand": "21 Savage",
+      "collection": "American Dream",
+      "releaseDate": "available now"
+    },
+    {
+      "retailerBrand": "Casio",
+      "collection": "Hello Kitty-themed Baby-G watch",
+      "releaseDate": "available online and at select retailers"
+    },
+    {
+      "retailerBrand": "HUMAN MADE",
+      "collection": "Season 27 drop",
+      "releaseDate": "available for purchase now"
+    },
+    {
+      "retailerBrand": "Diesel",
+      "collection": "Lunar New Year capsule (Year of the Dragon)",
+      "releaseDate": "available for purchase now"
+    },
+    {
+      "retailerBrand": "Drake",
+      "collection": "Anita Max Wynn cap",
+      "releaseDate": "available on official merch site"
+    },
+    {
+      "retailerBrand": "B.B. Simon",
+      "collection": "The Nightmare Before Christmas-inspired belts",
+      "releaseDate": "available at flagship store and online"
+    },
+    {
+      "retailerBrand": "Levi's",
+      "collection": "517 Bootcut jeans",
+      "releaseDate": "available now via official site"
+    },
+    {
+      "retailerBrand": "F.A.T. International",
+      "collection": "Collaborative capsule by Sean Wotherspoon",
+      "releaseDate": "available exclusively in person at the upcoming Ice Race in Zell am See"
+    }
+  ]
+}

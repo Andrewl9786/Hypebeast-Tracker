@@ -1,0 +1,25 @@
+{
+  "date": "2023-12-27",
+  "fashionRelease": [
+    {
+      "retailerBrand": "HUMAN MADE",
+      "collection": "Lucky New Year release",
+      "releaseDate": "December 27"
+    },
+    {
+      "retailerBrand": "NEIGHBORHOOD",
+      "collection": "",
+      "releaseDate": "December 29"
+    },
+    {
+      "retailerBrand": "Alpha Industries",
+      "collection": "",
+      "releaseDate": "December 30"
+    },
+    {
+      "retailerBrand": "FACETASM",
+      "collection": "",
+      "releaseDate": "January 1"
+    }
+  ]
+}

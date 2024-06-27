@@ -1,0 +1,53 @@
+{
+  "date": "2024-02-29",
+  "fashionRelease": [
+    {
+      "retailerBrand": "Palace",
+      "collection": "Spring 2024",
+      "releaseDate": "February 29",
+      "availability": "Available online at Palace"
+    },
+    {
+      "retailerBrand": "Supreme x The North Face",
+      "collection": "Spring 2024",
+      "releaseDate": "February 29, 11 a.m. EDT in the United States and March 2, 11 a.m. JST in Japan",
+      "availability": "Global release via the streetwear imprint"
+    },
+    {
+      "retailerBrand": "Jacquemus x Nike",
+      "collection": "Spring 2024",
+      "releaseDate": "Now available",
+      "availability": "Shop online"
+    },
+    {
+      "retailerBrand": "Levi's",
+      "collection": "Made in Japan SS24",
+      "releaseDate": "Now available",
+      "availability": "Online"
+    },
+    {
+      "retailerBrand": "Khy by Kylie Jenner",
+      "collection": "Drop 004",
+      "releaseDate": "Now available",
+      "availability": "On Khy website"
+    },
+    {
+      "retailerBrand": "Brain Child",
+      "collection": "Still As Water 2",
+      "releaseDate": "Now available",
+      "availability": "Online"
+    },
+    {
+      "retailerBrand": "ADER error",
+      "collection": "Multi-Sensory",
+      "releaseDate": "Now available",
+      "availability": "Online"
+    },
+    {
+      "retailerBrand": "Salomon",
+      "collection": "SS24",
+      "releaseDate": "Now available",
+      "availability": "Check out online now"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2024-02-01",
+  "fashionRelease": [
+    {
+      "retailerBrand": "thisisneverthat",
+      "collection": "Winter 2024 collaboration with GORE-TEX",
+      "releaseDate": "February 1 at 8 p.m. EST"
+    },
+    {
+      "retailerBrand": "MARKET",
+      "collection": "Pink Panther Capsule",
+      "releaseDate": "Now available online"
+    },
+    {
+      "retailerBrand": "TAG Heuer",
+      "collection": "Eyewear Relaunch - Pro Performance, Sport Performance, Daily Performance",
+      "releaseDate": "Now available online"
+    },
+    {
+      "retailerBrand": "The Hundreds",
+      "collection": "Spring 2024 Collection",
+      "releaseDate": "February 1 at 1 p.m. EST"
+    },
+    {
+      "retailerBrand": "sacai x Carhartt WIP",
+      "collection": "Capsule Collection",
+      "releaseDate": "February 2 in Mainland China and Hong Kong in-store and online"
+    },
+    {
+      "retailerBrand": "Palace",
+      "collection": "Spring 2024 Collection",
+      "releaseDate": "February 2 in the U.S. and Europe and February 3 in Japan"
+    },
+    {
+      "retailerBrand": "STAPLE and PUMA",
+      "collection": "Lunar New Year Collection",
+      "releaseDate": "February 1"
+    },
+    {
+      "retailerBrand": "HIDDEN.NY",
+      "collection": "Year of the Dragon Collection",
+      "releaseDate": "February 2, 2024 starting at 12 p.m. EST for members and 3 p.m. EST for general release"
+    }
+  ]
+}
